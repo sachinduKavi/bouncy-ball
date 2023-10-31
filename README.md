@@ -1,4 +1,4 @@
-# bird_game
+Bouncy Ball Game Flutter Project
 
 A new Flutter project.
 
